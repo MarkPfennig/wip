@@ -1,0 +1,6 @@
+{
+  "require": {
+    "predis/predis": "1.1.*@dev",
+    "mailgun/mailgun-php": "1.7.1"
+  }
+}
